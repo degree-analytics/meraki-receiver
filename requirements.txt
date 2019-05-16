@@ -1,0 +1,6 @@
+# flask requirements
+
+Flask==0.10.1
+flask-restplus==0.12.1
+simplejson==3.16.0
+boto3==1.9.148
